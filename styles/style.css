@@ -7,3 +7,28 @@ body{
 	margin:0;
 	background-color: white;
 }
+.list-inline li{
+	display: inline;
+	text-align: center;
+}
+.list-inline{
+	padding:0;
+	text-align: center;
+}
+.list-inline a {
+	font-size: 35px;
+	color: white;
+	text-align: center;
+}
+
+.list-inline a:hover {
+color: white;
+transition:1s;
+text-align: center; }
+
+
+
+
+
+
+

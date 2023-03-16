@@ -1,5 +1,11 @@
 .btn-blue{
-	background-color:pink;
+	background-color:#E3DAD5;
+	color: #E3DAD5;
+	font-weight: bold;
+	border-radius: 5px;
+}
+.btn-blue{
+	background-color:#E3DAD5;
 	color: #E3DAD5;
 	font-weight: bold;
 	border-radius: 5px;
